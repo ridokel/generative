@@ -1,1 +1,1 @@
-# generative
+# Repository for Generative Models implementation.
